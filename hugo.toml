@@ -1,0 +1,4 @@
+baseURL = 'https://yakisoba.hoppingtopping.com/'
+languageCode = 'en-us'
+title = 'YakisobaScans RELOADED'
+theme = 'hugo-classic'
