@@ -4,7 +4,7 @@ description: "Yakisoba Scanlations, that one Kill Me Baby translation group."
 ---
 <img
   id="iconic"
-  src="./images/iconic.png"
+  src="/yakisobascans/content/images/iconic.png"
   alt="placeholder">
 
 ## Yakisoba Scanlations
